@@ -1,2 +1,2 @@
 # yield_aggregator
-Gathers yeild options, bitch :)
+Gathers yield options, bitch :)
